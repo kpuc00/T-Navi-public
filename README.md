@@ -4,7 +4,7 @@ T-Navi is an Android application designed for vehicles like buses and trains to 
 
 ## Trailer
 
-- Click on the image to play the trailer on YouTube
+👉 Click on the image to play the trailer on YouTube
 
 [![T-Navi Trailer](https://github.com/user-attachments/assets/a05a81c3-f3fd-4e81-8d4f-d9f55d44d141)](https://www.youtube.com/watch?v=Zu_WMnYxp00)
 
