@@ -35,6 +35,12 @@ T-Navi supports Android devices running version 10 or higher. Download the offic
 
 **Note**: The official version of T-Navi is available exclusively on Google Play. Redistribution or modification of the app is strictly prohibited.
 
+## User Manual
+
+More information about the functionality and how to use T-Navi can be found at the following link:
+
+👉 [T-Navi User Manual](https://kstrahilov.dev/documents/t-navi-user-manual/)
+
 ## Privacy Policy
 
 Your privacy is a top priority for T-Navi. The app collects minimal data to ensure functionality while respecting your rights. Here’s a summary of how your data is managed:
