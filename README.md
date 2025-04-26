@@ -8,6 +8,14 @@ T-Navi is an Android application designed for vehicles like buses and trains to 
 
 [![T-Navi Trailer](https://github.com/user-attachments/assets/a05a81c3-f3fd-4e81-8d4f-d9f55d44d141)](https://www.youtube.com/watch?v=Zu_WMnYxp00)
 
+## Installation
+
+T-Navi supports Android devices running version 10 or higher. Download the official app directly from Google Play:
+
+👉 [Download T-Navi from Google Play](https://play.google.com/store/apps/details?id=dev.kstrahilov.tnavi)
+
+**Note**: The official version of T-Navi is available exclusively on Google Play. Redistribution or modification of the app is strictly prohibited.
+
 ## Features
 
 - **Route Visualization**: Display routes on an interactive information board.
@@ -15,6 +23,12 @@ T-Navi is an Android application designed for vehicles like buses and trains to 
 - **GPS Integration**: Detect and update the vehicle's current position in real-time.
 - **Device Compatibility**: Works on Android-enabled devices installed in vehicles.
 - **Multi-Language Support**: The app is available in Bulgarian, English, Dutch, German, Polish, and Czech.
+
+## User Manual
+
+More information about the functionality and how to use T-Navi can be found at the following link:
+
+👉 [T-Navi User Manual](https://kstrahilov.dev/documents/t-navi-user-manual/)
 
 ## App Thumbnails
 
@@ -26,20 +40,6 @@ Below are preview images showcasing T-Navi in action:
 <img src="https://github.com/user-attachments/assets/eb790448-fc06-4ca7-babc-385ad0d39caa" width="15%">
 <img src="https://github.com/user-attachments/assets/a1f81966-cffa-4558-959e-18ac66be7c07" width="15%"><br>
 <img src="https://github.com/user-attachments/assets/0802b8bf-c4bf-43bc-bd59-99ed51588db5" width="30%">
-
-## Installation
-
-T-Navi supports Android devices running version 10 or higher. Download the official app directly from Google Play:
-
-👉 [Download T-Navi from Google Play](https://play.google.com/store/apps/details?id=dev.kstrahilov.tnavi)
-
-**Note**: The official version of T-Navi is available exclusively on Google Play. Redistribution or modification of the app is strictly prohibited.
-
-## User Manual
-
-More information about the functionality and how to use T-Navi can be found at the following link:
-
-👉 [T-Navi User Manual](https://kstrahilov.dev/documents/t-navi-user-manual/)
 
 ## Privacy Policy
 
