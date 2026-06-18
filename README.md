@@ -1,6 +1,5 @@
 <img src="https://github.com/user-attachments/assets/cf5c1b07-1d14-451a-9835-50f20fd601b2" width="20%"><br>
 
-
 T-Navi is an Android application designed for vehicles like buses and trains to keep passengers informed about their current journey. It provides real-time stop announcements and displays routes on an information board. The app utilizes the device's GPS to detect upcoming stops on the route, ensuring accurate and timely updates.
 
 ## Trailer
@@ -11,7 +10,7 @@ T-Navi is an Android application designed for vehicles like buses and trains to 
 
 ## Installation
 
-T-Navi supports Android devices running version 10 or higher. Download the official app directly from Google Play:
+T-Navi supports Android devices running version 8 or higher. Download the official app directly from Google Play:
 
 👉 [Download T-Navi from Google Play](https://play.google.com/store/apps/details?id=dev.kstrahilov.tnavi)
 
