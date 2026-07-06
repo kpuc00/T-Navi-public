@@ -21,8 +21,10 @@ T-Navi supports Android devices running version 8 or higher. Download the offici
 - **Route Visualization**: Display routes on an interactive information board.
 - **Stop Announcements**: Automatically announce upcoming stops to passengers.
 - **GPS Integration**: Detect and update the vehicle's current position in real-time.
+- **Offline First**: All route data and audio are stored on-device; no network is required to run a route.
 - **Device Compatibility**: Works on Android-enabled devices installed in vehicles.
 - **Multi-Language Support**: The app is available in Bulgarian, English, Dutch, German, Polish, and Czech.
+- **Premium Features**: Optional subscription unlocks custom theming, a system logo, route history, and encrypted data import/export.
 
 ## User Manual
 
@@ -43,11 +45,11 @@ Below are preview images showcasing T-Navi in action:
 
 ## Privacy Policy
 
-Your privacy is a top priority for T-Navi. The app collects minimal data to ensure functionality while respecting your rights. Here’s a summary of how your data is managed:
+Your privacy is a top priority for T-Navi. The app collects minimal data to ensure functionality while respecting your rights. Here's a summary of how your data is managed:
 
 - **Location Data**: Used only during a set route. Not shared or stored outside your device.
 - **Route Data**: Stored locally on your device and removable at your discretion.
-- **Advertising Identifier**: Used for displaying personalized ads via Google. Denying access results in non-relevant ads.
+- **Subscriptions**: The optional Premium subscription is handled by Google Play Billing; no payment details are stored by the app.
 - **Anonymized Analytics**: Utilized to measure app usage and diagnose bugs via Google Analytics.
 
 All data usage complies with GDPR and other applicable regulations.
