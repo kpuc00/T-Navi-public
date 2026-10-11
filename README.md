@@ -21,6 +21,8 @@ T-Navi supports Android devices running version 8 or higher. Download the offici
 - **Route Visualization**: Display routes on an interactive information board.
 - **Stop Announcements**: Automatically announce upcoming stops to passengers.
 - **GPS Integration**: Detect and update the vehicle's current position in real-time.
+- **Circular Routes**: Mark a direction as circular so loop routes keep the correct stop order and passed stops are not announced again.
+- **Service Lines**: Flag a line as a service run.
 - **Offline First**: All route data and audio are stored on-device; no network is required to run a route.
 - **Device Compatibility**: Works on Android-enabled devices installed in vehicles.
 - **Multi-Language Support**: The app is available in Bulgarian, English, Dutch, German, Polish, and Czech.
@@ -50,7 +52,8 @@ Your privacy is a top priority for T-Navi. The app collects minimal data to ensu
 - **Location Data**: Used only during a set route. Not shared or stored outside your device.
 - **Route Data**: Stored locally on your device and removable at your discretion.
 - **Subscriptions**: The optional Premium subscription is handled by Google Play Billing; no payment details are stored by the app.
-- **Anonymized Analytics**: Utilized to measure app usage and diagnose bugs via Google Analytics.
+- **Anonymized Analytics**: Utilized to measure app usage via Google Analytics for Firebase.
+- **Crash Reports**: Anonymous crash reports are collected via Firebase Crashlytics to diagnose bugs.
 
 All data usage complies with GDPR and other applicable regulations.
 
@@ -61,7 +64,9 @@ Read the full privacy policy here:
 ## Technologies Used
 
 - **Language**: Kotlin
-- **Platform**: Android
+- **Platform**: Android 8.0+ (API 26)
+- **Architecture**: Room database, Hilt dependency injection, Kotlin coroutines
+- **Google Services**: Fused Location Provider, Google Maps, Play Billing, Firebase Analytics and Crashlytics
 - **Features**: GPS, real-time updates
 
 ## Contact
