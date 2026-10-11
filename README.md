@@ -36,14 +36,16 @@ More information about the functionality and how to use T-Navi can be found at t
 
 ## App Thumbnails
 
-Below are preview images showcasing T-Navi in action:
+Below are preview images on tablet showcasing T-Navi in action:
 
-<img src="https://github.com/user-attachments/assets/e813fd6d-d29f-4e5c-92f6-54eea72e016b" width="15%">
-<img src="https://github.com/user-attachments/assets/47f7913c-2ec4-41a6-bd2e-6b1b6a63589c" width="15%">
-<img src="https://github.com/user-attachments/assets/a7015a8d-ccc2-4942-b59a-da6d150e0af4" width="15%">
-<img src="https://github.com/user-attachments/assets/eb790448-fc06-4ca7-babc-385ad0d39caa" width="15%">
-<img src="https://github.com/user-attachments/assets/a1f81966-cffa-4558-959e-18ac66be7c07" width="15%"><br>
-<img src="https://github.com/user-attachments/assets/0802b8bf-c4bf-43bc-bd59-99ed51588db5" width="30%">
+<img src="https://github.com/user-attachments/assets/d3c9aa82-ed3c-47d0-9087-6660e1ed13ba" width="30%">
+<img src="https://github.com/user-attachments/assets/4c3bdeef-c5ab-490b-9a74-3f27b4fd4d7c" width="30%">
+<img src="https://github.com/user-attachments/assets/a200014e-63e7-469d-a17e-2c6ce8f6f723" width="30%">
+<img src="https://github.com/user-attachments/assets/d990b965-f621-479b-9b5a-1cbafb1b3022" width="30%">
+<img src="https://github.com/user-attachments/assets/be67f7d3-6813-40c2-98bb-9a6510219b9e" width="30%">
+<img src="https://github.com/user-attachments/assets/672a0777-defc-4435-a587-40fdb2ffd835" width="30%">
+<img src="https://github.com/user-attachments/assets/21db6999-0b41-4839-90b1-afa30cf9c732" width="30%">
+<img src="https://github.com/user-attachments/assets/81aea1ef-7e0f-41ca-9b69-56625a88c614" width="30%">
 
 ## Privacy Policy
 
